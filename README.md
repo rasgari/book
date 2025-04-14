@@ -14,14 +14,15 @@ book Psychology
 اینجا ۳تا سایت معرفی می‌کنم برای تیپ شخصیت و رفتاری، فرم ها با دقت انجام بدید
 
 این سایت زیر نظر دانشگاه است:
-https://esanj.ir/16-personality-factor-test
+- https://esanj.ir/16-personality-factor-test
 
 سایت انگلیسی
-https://www.16personalities.com/fa
+- https://www.16personalities.com/fa
 
-و سایت آدم و حوا 
+سایت آدم و حوا 
+
 ( مشاوره ازدواج و دوست‌یابی(اگر قصد ازدواج دارید و همچنین سایت همرسان برای ازدواج ) که برای تیپ شخصیت هزینه باید پرداخت کنید)
-https://adamvahava.org/
+- https://adamvahava.org/
 
 
 =============================================
